@@ -21,6 +21,7 @@ body{
     background-color: black;
     background-position: center;
     background-image: url("../img/earth.jpg");
+    overflow: hidden;
     position: absolute;
     z-index: -1;
     transition: transform 2s ease-in-out;
